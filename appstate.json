@@ -1,4 +1,92 @@
-credits by Ayan Choudhury 
-
-
-#All text remove and send this you bot cookie now
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100088278565939%22%3A%22SmTpoAYF%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "datr",
+        "value": "VXAuZnqOlO2evaOMuQ-yRar7",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "sb",
+        "value": "VXAuZkM5oXbG160hwyw8JdM1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "wd",
+        "value": "689x1359",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "fr",
+        "value": "09KzzmKqzL5mmiS83.AWVtuR7z6p25-sms3Uq85ZkyVjU.BmLnBV..AAA.0.0.BmLnC8.AWXppH59fAU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100088278565939",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "xs",
+        "value": "21%3AP1fTOK60P-438Q%3A2%3A1714319549%3A-1%3A5133",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "100088278565939",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-29T04:27:32.949Z",
+        "lastAccessed": "2024-04-29T04:27:32.949Z"
+    }
+]
